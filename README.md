@@ -1,4 +1,4 @@
-# Book-Store---analysis
+
 # Bookstore Analysis
 
 Practice project in two parts, built while learning data analysis.
