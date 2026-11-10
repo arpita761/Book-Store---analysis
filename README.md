@@ -13,4 +13,8 @@ Practice project in two parts, built while learning data analysis.
 - File: `BOOK STORE PROJECT 2.xlsx`
 - Separate sample dataset analyzed with formulas, Pivot Tables and charts
 
+## Dashboard Preview
+![Bookstore Dashboard]
+(bookstore - dashboard.png)
+
 Note: the two parts use different datasets. Both are practice projects.
