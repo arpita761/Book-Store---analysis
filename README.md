@@ -17,4 +17,9 @@ Practice project in two parts, built while learning data analysis.
 ![Bookstore Dashboard]
 (bookstore - dashboard.png)
 
+## Project Files
+
+- [View Excel Workbook](BOOK%20STORE%20PROJECT%202.xlsx)
+- [View SQL Queries](sql%20bookstore%20project.sql)
+- 
 Note: the two parts use different datasets. Both are practice projects.
